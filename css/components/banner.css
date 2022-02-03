@@ -1,0 +1,33 @@
+.banner {
+  background-image: url("../../images/fellowship.jpg");
+  background-size: cover;
+  background-position: center;
+  background-position: center;
+  padding-top: 200px;
+  height : 200px;
+}
+
+.banner h1 {
+  color: rgb(7, 4, 31);
+}
+
+.banner h1:hover {
+  font-weight: bold;
+  text-shadow: 2px 2px #12faee;
+}
+
+.banner p {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  margin-top: 10px;
+}
+.banner p:hover {
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 2px 2px rgb(247, 202, 1);
+}
+
+.secondary-container {
+  margin-top: -150px;
+  padding-left: 100px;
+}

@@ -1,0 +1,50 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Syne+Tactile&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Poppins:wght@500&display=swap');
+@import url("components/cards.css");
+@import url("components/banner.css");
+@import url("components/btn.css");
+
+
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Syne Tactile', cursive;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Dancing Script', cursive;
+}
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+.container {
+  width: 900px;
+margin: auto;
+}
+
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #0e1220;
+}
+
+.footer a {
+  font-size: 30px;
+  color:  #04f0d1;
+}
+
+.footer h4 {
+  color: #04f0d1;
+}
